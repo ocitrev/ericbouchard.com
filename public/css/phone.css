@@ -1,0 +1,29 @@
+﻿body, .content td, .content th {
+    font-family: Georgia;
+    font-weight: 400;
+    font-size: 12pt;
+    background-color: White;
+    margin: 8px;
+}
+
+#master {
+    text-align: left;
+    border: none;
+    line-height: 24px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.headerlogo {
+    display: none;
+}
+
+.header {
+    line-height: normal;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid black;
+}
